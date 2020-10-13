@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342232471677",
+    "firebase_url": "https://app-chat-16fca.firebaseio.com",
+    "project_id": "app-chat-16fca",
+    "storage_bucket": "app-chat-16fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342232471677:android:dc95de2a48e00333727914",
+        "android_client_info": {
+          "package_name": "com.choll102.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342232471677-35u9epmcanjtkv8s503un4o2kepj7quq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7NzIlzKsHuc-U63UGsht6DPeiLlkuH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342232471677-35u9epmcanjtkv8s503un4o2kepj7quq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
